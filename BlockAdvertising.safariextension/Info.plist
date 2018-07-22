@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Stefan Arentz</string>
+	<key>Builder Version</key>
+	<string>13605.3.8</string>
+	<key>CFBundleDisplayName</key>
+	<string>Block Advertising</string>
+	<key>CFBundleIdentifier</key>
+	<string>ca.arentz.BlockzillaAdvertising</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Content Blocker</key>
+		<string>disconnect-advertising.json</string>
+	</dict>
+	<key>Description</key>
+	<string>Focus Blocklists for Safari (Advertising)</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>
